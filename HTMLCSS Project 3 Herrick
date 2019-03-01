@@ -1,0 +1,128 @@
+<HTML>
+  <head>
+      <body>
+        <meta name="Resume" content="HTML,CSS,XML,JavaScript">
+          <meta name="Sydney Herrick" content="Resume">
+        <h1 style="color:white;">Sydney Reese Herrick</h1>
+    <style>
+    #Sydney {
+      background-color: white;
+    }
+    </style>
+    </head>
+
+    <div class="intro">
+      <p id="Sydney">Sydney Herrick's Resume</p>
+      <p id="address">10 Rain Avenue, Neverland USA</p>
+      <p id="email">srh125@miami.edu</p>
+      <p id="phone number">(305) 222-3233</p>
+    </div>
+    <style>
+    body{
+      background-color: brown;
+    }
+    </style>
+  </head>
+        <title>
+          My first great site!
+      </title>
+      <center>
+        <style>
+        H1 {color:white;}
+        p {color:black;}
+        </style>
+      </head>
+<style>
+h1 {
+  font-family: verdana;
+  font-size: 20px;
+
+}
+p  {
+  font-family: courier;
+  font-size: 10px;
+}
+</style>
+          <H3>
+            <div class="Description">
+              <p id="What I Do">Writer, Singer, Actress, Songwriter, Artist</p>
+            </div>
+            <img src="sydney.jpg" alt="Sydney"
+            width="400" height="300">
+
+    </B>
+       </center>
+     </UL>
+            </H3>
+    <H1>
+        <B>
+          About Me
+            <p id="age"><font size="4px">A little bit about myself...</font></p>
+        </H1>
+    I always have had a passion for writing.  By the age of 7, I started writing song lyrics, and shortly after I advanced my writing passion towards screenwriting. Now a sophomore at the University of Miami, I am a screenwriting major with a minor in Theater Arts.
+    </B>
+    <H1>
+      <B>
+        Experience
+      </B>
+        <p id="past jobs"><font size="4px">My past jobs include...</font></p>
+            </H1>
+            <a href="http://www.applebees.com"> Go to Apple Bees </a>
+            <a href="http://www.zoomiami.org"> Go to Zoo Miami </a>
+            <a href="http://www.freepeople.com"> Go to Free People </a>
+      <table style="width:100%">
+        <B>
+          <tr>
+            <td>  Job 1: Waitress At Apple Bees 18-20 yrs old</td>
+          </tr>
+          <tr>
+            <td>  Job 2: Zoo Keeper 20-21 yrs old</td>
+          </tr>
+          <tr>
+            <td> Job 3: Stylist At Free People 21-current</td>
+            </tr>
+          </B>
+          </table>
+        <style>
+        a{
+              text-decoration: none;
+              font-size: 15px;
+        }
+              a:hover{
+              font-size:3cm
+              background-color: white;
+        }
+            a {
+              color: white;
+        }
+          </style>
+    <a href="www.applebees.com">Applebees.com</a>
+    <a href="www.zoomiami.org">Zoomiami.org</a>
+    <a href="www.freepeople.com">Freepeople.com</a>
+    <H1>
+      <B>
+        Hobbies/Interests
+        <p id="Hobbies"><font size="4px">I have a passion for...</font></p>
+      </H1>
+      <UL>
+    <li> Art</li>
+      <li> Sports</li>
+        <li>Community Service</li>
+          <li> Traveling</li>
+    </B>
+  </UL>
+    <H1>
+      <B>
+        Skills
+        <p id="skills"><font size="4px">I am proficient in...</font></p>
+      </H1>
+      <UL>
+    <li> Guitar </li>
+    <li> Cinematography </li>
+    <li> Wiggling Ears </li>
+    <li> Screenwriting</li>
+    <li> Shopping </li>
+    </UL>
+</body>
+
+</HTML>
